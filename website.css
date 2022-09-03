@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+}
+.logo img{
+    width: 55%;
+    height: 600px;
+    background-color: red;
+    float: left;
+    object-fit: cover;
+}
+.header{
+    width: 45%;
+    height: 600px;
+    background-color: black;
+    float: right;
+    font-family: TwitterChirpExtendedHeavy, Verdana,
+     -apple-system,BlinkMacSystemFont, "Segoe UI", 
+     Roboto, Helvetica, Arial, sans-serif
+}
+.footer {
+    width: auto;
+    list-style: none;
+    background-color: black;
+    color: #fff;
+    
+}
+.footer li{
+    display: inline-block;
+    color: #71767B;
+    font: inherit;
+    font-size: 13px;
+}
+
+.footer li a{
+    text-decoration: none;
+    color: #71767B;
+    font: inherit;
+    font-size: 13px;
+    margin-left: 15px;
+}
+
+.footer li a:hover{
+    text-decoration: underline  ;
+}
+.title{
+        color: #e7e9ea;
+        font-size: 62px;
+        font-weight: 800;
+        margin-left: 30px;
+        margin-top: 20px;
+}
+.title-1{
+    color: #e7e9ea;
+    font-size: 31px;
+    font-weight: 700;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.btn{
+    margin-left: 30px;
+    margin-top: 20px;
+    align-items: center;
+}
+.line{
+    color: #e7e9ea;
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.phone{
+    color: rgb(89, 89, 207);
+}
+.sign {
+    font-size: 11px;
+    font-family: TwitterChirp, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: rgb(113, 118, 123);
+    margin-left: 2px;
+    margin-top: 2px;
+}
+.sign a{
+    color: rgb(29, 155, 240);
+    text-decoration: none;
+}
+.sign a:hover{
+   text-decoration: underline;
+}
+.acc{
+    color: #e7e9ea;
+    margin-top: 50px;
+    font-size: 17px;
+
+}
+
+.last-sign{
+    color: #fff;
+    margin-left: 30px;
+}
+.btn-1{
+    border-radius: 30px;
+    font-size: 14px;
+    height: 40px;
+    width: 54%;
+    color: #3c4043;
+    font-family: "Google Sans", arial,sans-serif;
+    cursor: pointer;
+    
+}
+.btn-2{
+    color:  black;
+    border-radius: 30px;
+    font-size: 14px;
+    height: 40px;
+    width: 54%;
+    font-family: "Google Sans", arial, sans-serif;
+    cursor: pointer;
+    align-items: center;
+    font-weight: 700;
+}
+ .btn-1:hover {
+    background-color:  rgb(241, 238, 238);
+}
+.btn-2:hover{
+    background-color: lightgrey;
+}
+.phone{
+        color: #fff;
+        border-radius: 30px;
+        font-size: 14px;
+        height: 40px;
+        width: 54%;
+        font-family: "Google Sans", arial, sans-serif;
+        cursor: pointer;
+        background-color: #1d9bf0;
+}
+.phone:hover{
+    background-color: rgb(11, 148, 240);
+}
+.last-sign{
+        color: rgb(29, 155, 240);
+        background-color: black;
+        border: 1px solid grey;
+        border-radius: 30px;
+        font-size: 14px;
+        height: 45px;
+        width: 54%;
+        font-family: "Google Sans", arial, sans-serif;
+        margin-top: 13px;
+        cursor: pointer;
+}
+.last-sign:hover{
+    background-color: rgb(114, 130, 141);
+}
+.ge{
+    width: 13px;
+    height: 13px;
+}
+.ap{
+    width: 13px;
+    height: 13px;
+}
+.tw{
+    margin-left: 35px;
+    margin-top: 10px;
+    width: 60px;
+    height: 60px;
+}
+.ft{
+    margin-left: 520px;
+    margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
